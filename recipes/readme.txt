@@ -1,0 +1,1 @@
+Añade tus recetas en esta carpeta. Una por fichero.
